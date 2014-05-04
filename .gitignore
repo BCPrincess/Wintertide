@@ -10,3 +10,28 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.classpath
+.project
+.gradle
+.settings
+bin
+build.gradle
+build
+CREDITS-fml.txt
+eclipse/.metadata
+eclipse/assets
+eclipse/config
+eclipse/logs
+forge-1.7.2-10.12.1.1060-changelog.txt
+forge-1.7.2-10.12.1.1060.ipr
+forge-1.7.2-10.12.1.1060.iml
+forge-1.7.2-10.12.1.1060.iws
+gradle
+gradlew
+gradlew.bat
+LICENSE-fml.txt
+MinecraftForge-Credits.txt
+MinecraftForge-License.txt
+README.txt
+src/main/java/com/example
+src/main/java/tutorial
